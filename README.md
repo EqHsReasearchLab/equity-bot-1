@@ -6,7 +6,7 @@ It helps writers and organizations review their materials with greater awareness
 ---
 
 ## Features
-- Upload or paste text from a document
+- Import document into website
 - Automatically scan for flagged terms or phrases
 - Suggest more equitable alternatives
 - Provide feedback to promote inclusive communication
